@@ -7,6 +7,7 @@
 #include <lua_file.hpp>
 #include <gui.hpp>
 #include <hardware.hpp>
+#include <../network/network.hpp>
 
 #define APP_DIR "/apps"
 #define PERMS_DIR "/system"
